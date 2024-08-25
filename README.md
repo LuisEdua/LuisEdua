@@ -13,12 +13,12 @@
 
 - 🔭 I’m currently working on [pangu](https://github.com/LuisEdua/pangu)
 - 🌱 I’m currently learning **vue**
-- 👨‍💻 All of my projects are available at [https://github.com/yuebaix](https://github.com/yuebaix)
-- 📝 I regularly write articles on [https://blog.yuebaix.com](https://blog.yuebaix.com)
-- 💬 Ask me about **java**
-- 📫 How to reach me **yuebaix@outlook.com**
-- 📄 Know about my experiences [https://blog.yuebaix.com/top/about/](https://blog.yuebaix.com/top/about/)
-- ⚡ Fun fact **I'm familiar with several code languages.ie java,javascript,shell,python,golang,php**
+- 👨‍💻 All of my projects are available at [https://github.com/yuebaix](https://github.com/LuisEua)
+- 📝 I regularly write articles on [https://blog.yuebaix.com](https://blog.LuisEdua.com)
+- 💬 Ask me about **javapython y c#**
+- 📫 How to reach me **lefarrera@gmail.com**
+- 📄 Know about my experiences [https://blog.LuisEdua.com/top/about/](https://blog.LuisEdua.com/top/about/)
+- ⚡ Fun fact **I'm familiar with several code languages.ie java,shell,python,golang,php, c#**
 
 ### 🛠 Tech Stack
 
