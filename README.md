@@ -109,7 +109,11 @@
 </p>
 
 ------
+## 🏆 Git Profile Trophies
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuisEdua&theme=gruvbox&row=2&column=5" alt="GitHub Trophies"></a>
+</p>
 
 [LuisEdua](https://github.com/LuisEdua)
 
