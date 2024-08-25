@@ -1,4 +1,10 @@
-<h1 align="center">I'm Luis Eduardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello Guys! I'm Luis Eduardo! 👁️</h1>
+
+<div align="center">
+<a href="https://LuisEdua.io">
+  <img src="/web/static/img/screenshots/homepage.gif" height=360
+</a>
+</div>
 
 <h4 align="center">
   <b><a href="https://LuisEdua.io/explore/">Data Explorer</a></b>
@@ -16,19 +22,61 @@
   <a href="https://LuisEdua.io/blog">Blog</a>
   •
   <a href="https://LuisEdua.io/docs">API</a>
+  •
+  <a href="https://twitter.com/LuisEdua">Twitter</a>
 </h3>
 
-<!--
-**LuisEdua/LuisEdua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
+ 
+[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+
+For all charming widgets, please [Check it out 👉](https://next.LuisEdua.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
+
+
+| Repository Activity Trends | Collaborative Productivity - Last 28 days |
+| ----------- | ----------- |
+|<img src="https://next.LuisEdua.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.LuisEdua.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
+| ----------- | ----------- |
+|<img src="https://next.LuisEdua.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.LuisEdua.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
+
+| Star Geographic Distribution | Star History |
+| ----------- | ----------- |
+|<img src="https://next.LuisEdua.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.LuisEdua.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+| Company Affiliation | Lines of Code Changes |
+| ----------- | ----------- |
+|<img src="https://next.LuisEdua.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.LuisEdua.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+| Pull Request Size | Pull Request Lifecycle |
+| ----------- | ----------- |
+|<img src="https://next.LuisEdua.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.LuisEdua.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
+| ----------- | ----------- |
+|<img src="https://next.LuisEdua.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.LuisEdua.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+| Repository Annual Ranking | Find More |
+| ----------- | ----------- |
+|<img src="https://next.LuisEdua.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.LuisEdua.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
+
+## Contact us
+
+<a href="https://twitter.com/LuisEdua" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
+<a href="https://github.com/pingcap/LuisEdua/discussions" target="_blank">
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="mailto:LuisEdua@pingcap.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+## Sponsors
+<a href="https://en.pingcap.com/tidb-cloud/?utm_source=LuisEdua&utm_medium=referral">
+<img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
+</a>
