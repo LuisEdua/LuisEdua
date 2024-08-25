@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm yuebaix</h1>
-<h3 align="center">A passionate backend developer from China</h3>
+<h1 align="center">Hi 👋, I'm LuisEdua</h1>
+<h3 align="center">A passionate backend developer from Mexico</h3>
 
 ---
 
-![followers](https://img.shields.io/github/followers/yuebaix?style=social)
-![stars](https://img.shields.io/github/stars/yuebaix?style=social)
+![followers](https://img.shields.io/github/followers/LuisEdua?style=social)
+![stars](https://img.shields.io/github/stars/LuisEdua?style=social)
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
