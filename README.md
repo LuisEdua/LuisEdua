@@ -99,7 +99,6 @@
 <img src="https://komarev.com/ghpvc/?username=LuisEdua&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> 
 <img src="https://img.shields.io/github/stars/LuisEdua?label=Stars&style=social" alt="GitHub stars" />
 <img src="https://img.shields.io/github/followers/LuisEdua?label=Followers&style=social" alt="GitHub followers" />
-<img src="https://commits.top/api/flag/mexico?style=plastic" alt="Mexico Commits Ranking" height="25px" width="250px" />
 </p>
 
 
